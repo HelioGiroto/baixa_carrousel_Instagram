@@ -65,7 +65,21 @@ Este tutorial está escrito em linguagem muito simples para ser compreendido at�
  
  - **Para salvar as imagens:** Quando as imagens estejas abertas nas abas do seu navegador, percorra uma a uma e pressione `Ctrl + S` para salvá-las em sua máquina. 
  
- Disfrute!
+ 
+## EM CASO DE UMA ÚNICA FOTO (_Sem_ carrousel):
+
+Caso o post seja de apenas uma única imagem (sem carrousel), este é o passo a passo:
+
+- Abra o post, por exemplo: https://www.instagram.com/p/DFo6HhMs8n7
+- Pressione `Control + Shift + J` para abrir o console.
+- Cole o seguinte comando dentro do Console e pressione enter:
+`window.open(document.querySelectorAll('div[role="button"] img')[0].src);`
+- Automaticamente se abrirá a foto numa outra aba do navegador.
+- Agora é só salvar a imagem:  `Control + S`.
+
+
+ 
+Desfrute!
  
 ```
  
