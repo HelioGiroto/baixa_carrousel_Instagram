@@ -9,9 +9,11 @@ Este tutorial está escrito em linguagem muito simples para ser compreendido at�
 *(E lembrando que a melhor versão é a de bookmarklet que posso disponibilizar o código se solicitado)*
 
 ## Se recomenda (embora opcional):
-	- A extensão de Navegador 'Copu All Urls', para abrir mais rapidamente aos links gerados.
-		(https://chromewebstore.google.com/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk)
-	- Usar o navegador Chrome ou Chromium (para melhor funcionamento das teclas de atalho).
+
+- A extensão de Navegador 'Copu All Urls', para abrir mais rapidamente aos links gerados.
+	(https://chromewebstore.google.com/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk)
+
+- Usar o navegador Chrome ou Chromium (para melhor funcionamento das teclas de atalho).
 
 
 ## Passo a passo:
